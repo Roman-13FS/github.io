@@ -6,6 +6,7 @@ body {
   line-height: 1.5;
   padding-top: 32px;
   padding-bottom: 32px;
+  background: url(images/1756.jpg) black;
 }
 
 p {
@@ -24,16 +25,19 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 36px;
+	color: #87394a;
 }
 
 h2 {
 	font-size: 32px;
 	border-bottom: 1px solid gray;
 	margin-bottom: 8px;
+	color: #c6012d;
 }
 
 h3 {
 	font-size: 20px;
+	color: #402df5;
 }
 
 #header {
